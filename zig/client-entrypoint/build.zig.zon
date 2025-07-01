@@ -1,0 +1,17 @@
+.{
+    .name = .p_client_entrypoint,
+    .version = "0.0.0",
+    .fingerprint = 0xd78ed7991df174ac, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.14.1",
+    .dependencies = .{
+        .glfw = .{
+            .url = "https://github.com/my-organization-for-forks/glfw/archive/refs/heads/mjy9088-patch-1.tar.gz",
+            .hash = "glfw-0.0.0-R5AeUpoHGgBKdZ1yvUnvg_hkJRb9JuswHd00q1ZuZP99",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

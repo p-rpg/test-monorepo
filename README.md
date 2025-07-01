@@ -1,6 +1,6 @@
 # Rust MMO Sandbox
 
-This repository contains a work-in-progress sandbox MMO written in Rust.
+This repository contains a work-in-progress sandbox MMO.
 It aims to deliver a Minecraft-like experience with modern rendering and a
 scalable server architecture.
 
