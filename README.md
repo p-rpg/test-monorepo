@@ -19,5 +19,5 @@ scalable server architecture.
 - **Highly multicore optimized** server implementation.
 - **Plugin** support on both client and server.
 
-See [`protocol/README.md`](protocol/README.md) for the networking protocol
-specification.
+See [`docs/protocol/README.md`](docs/protocol/README.md) for the networking
+protocol specification.
