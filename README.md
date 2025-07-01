@@ -1,6 +1,6 @@
-# Rust MMO Sandbox
+# Voxel MMO Sandbox
 
-This repository contains a work-in-progress sandbox MMO.
+This repository contains a work-in-progress voxel-based sandbox MMO.  
 It aims to deliver a Minecraft-like experience with modern rendering and a
 scalable server architecture.
 
