@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "DavidAnson.vscode-markdownlint",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "ziglang.vscode-zig",
+    ],
+}
