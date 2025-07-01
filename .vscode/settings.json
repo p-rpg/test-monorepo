@@ -1,0 +1,26 @@
+{
+    "[c][cpp]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+    },
+    "[rust]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    },
+    "[toml]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "tamasfe.even-better-toml",
+    },
+    "[zig]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ziglang.vscode-zig",
+    },
+    "files.associations": {
+        "*.h": "c",
+    },
+    "rust-analyzer.checkOnSave": true,
+    "rust-analyzer.check.command": "clippy",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.detectExtensionConflicts": false,
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}/compile_commands.json",
+}
